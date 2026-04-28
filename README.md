@@ -27,4 +27,4 @@ This project analyzes hotel booking data to understand customer behavior, cancel
 This project helps hotel management identify high-risk bookings, understand cancellation drivers, improve revenue decisions, and monitor hotel performance through dashboards and analytics.
 ## 🚀 Explore the Project
 - 📓 [View Notebook](https://github.com/IbthalAhmed161/hotel-booking-data-analysis/blob/main/hotel_bookings_EDA_.ipynb)
-- 📄 [View Full Report](https://github.com/IbthalAhmed161/hotel-booking-data-analysis/blob/main/final_hotel_EDA&SQL_report%20(1).pdf)
+- 📄 [View Full Report](https://github.com/IbthalAhmed161/hotel-booking-data-analysis/blob/main/Hotel_Booking_Data_Analysis_Report.pdf)
