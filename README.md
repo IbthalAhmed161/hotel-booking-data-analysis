@@ -4,7 +4,7 @@ This project helps hotel businesses analyze booking data, reduce cancellations, 
 - Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
 - SQL
 - Power BI
-- Jupyter Notebook
+- Google Colab
 
 ## Project Overview
 This project analyzes hotel booking data to understand customer behavior, cancellation patterns, hotel performance, revenue, payments, and operational insights.
@@ -25,3 +25,6 @@ This project analyzes hotel booking data to understand customer behavior, cancel
 
 ## Business Value
 This project helps hotel management identify high-risk bookings, understand cancellation drivers, improve revenue decisions, and monitor hotel performance through dashboards and analytics.
+## 🚀 Explore the Project
+- 📓 [View Notebook](https://github.com/IbthalAhmed161/hotel-booking-data-analysis/blob/main/hotel_bookings_EDA_.ipynb)
+- 📄 [View Full Report](https://github.com/IbthalAhmed161/hotel-booking-data-analysis/blob/main/final_hotel_EDA&SQL_report%20(1).pdf)
